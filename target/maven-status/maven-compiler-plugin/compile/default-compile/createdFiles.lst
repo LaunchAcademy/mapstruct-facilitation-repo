@@ -1,0 +1,10 @@
+com/launchacademy/javaserializationdto/dtos/WineDTO.class
+com/launchacademy/javaserializationdto/services/WineApiService.class
+com/launchacademy/javaserializationdto/mappers/WineMapper.class
+com/launchacademy/javaserializationdto/seeders/WineSeeder.class
+com/launchacademy/javaserializationdto/models/Wine.class
+com/launchacademy/javaserializationdto/DemoApplication.class
+com/launchacademy/javaserializationdto/controllers/WinesController.class
+com/launchacademy/javaserializationdto/controllers/api/v1/WinesApiController.class
+com/launchacademy/javaserializationdto/repositories/WineRepository.class
+com/launchacademy/javaserializationdto/mappers/WineMapperImpl.class

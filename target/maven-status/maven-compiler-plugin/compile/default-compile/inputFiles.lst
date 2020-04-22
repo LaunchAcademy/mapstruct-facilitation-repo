@@ -1,0 +1,9 @@
+/Users/arkhamsrazor/launch/curriculum/presentations/java-serialization-and-dto/src/main/java/com/launchacademy/javaserializationdto/mappers/WineMapper.java
+/Users/arkhamsrazor/launch/curriculum/presentations/java-serialization-and-dto/src/main/java/com/launchacademy/javaserializationdto/services/WineApiService.java
+/Users/arkhamsrazor/launch/curriculum/presentations/java-serialization-and-dto/src/main/java/com/launchacademy/javaserializationdto/models/Wine.java
+/Users/arkhamsrazor/launch/curriculum/presentations/java-serialization-and-dto/src/main/java/com/launchacademy/javaserializationdto/seeders/WineSeeder.java
+/Users/arkhamsrazor/launch/curriculum/presentations/java-serialization-and-dto/src/main/java/com/launchacademy/javaserializationdto/controllers/WinesController.java
+/Users/arkhamsrazor/launch/curriculum/presentations/java-serialization-and-dto/src/main/java/com/launchacademy/javaserializationdto/dtos/WineDTO.java
+/Users/arkhamsrazor/launch/curriculum/presentations/java-serialization-and-dto/src/main/java/com/launchacademy/javaserializationdto/DemoApplication.java
+/Users/arkhamsrazor/launch/curriculum/presentations/java-serialization-and-dto/src/main/java/com/launchacademy/javaserializationdto/repositories/WineRepository.java
+/Users/arkhamsrazor/launch/curriculum/presentations/java-serialization-and-dto/src/main/java/com/launchacademy/javaserializationdto/controllers/api/v1/WinesApiController.java
